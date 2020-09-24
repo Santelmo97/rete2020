@@ -1,1 +1,1 @@
-# rete2020
+# Informatikai Rendszertervezés 2020
